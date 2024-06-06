@@ -33,7 +33,7 @@ This project is a clone of the Booking.com website, it is a full stack website b
 A login button for the user at the homepage, number of properties based on countries , property type are dynamically populated as the database is modified. Featured hotels are given priority at the homepage. After searching by the country, dates of visit and number of people, a hotel list is provided to the user with elaborate description of each hotel with images which can be expanded and explored via a slider. The user can filter hotels on the basis of minimum and maximum cost of stay per night. On selecting a hotel, the user gets the total price calculated based on number of days of visit. Then the user can reserve the rooms which are not already reserved by exploring through the various types of rooms. Then after booking the user can logout. The database modification can be done only by the users which are Admin.
 
 ## Tech Stack Used
-- React
+- React and React Context API
 - HTML
 - CSS
 - JavaScript
@@ -43,7 +43,7 @@ A login button for the user at the homepage, number of properties based on count
 - Mongoose ODM
 - Postman
 
-  JWT Authorization added for user token generations, passwords were hashed using bcryptjs. Cookie-parser was used to read and manage cookies. Cors was used to accept API requests from frontend to backend. Axious Library was used to make HTTP requests. AuthContext used to manage user authentication state, allowing different parts of the application to access and update the user's authentication status without passing props down manually through each component. Similarly SearchContext was used to allow different parts of the application to access and update the search state without passing props down manually through each component.
+  JWT Authorization added for user token generations, passwords were hashed using bcryptjs. Cookie-parser was used to read and manage cookies. Cors was used to accept API requests from frontend to backend. Axious Library was used to make HTTP requests. Context API was used which is a part of React, used for managing global state in a React application and sharing data between components without having to pass props manually and avoid prop drilling. AuthContext used to manage user authentication state, allowing different parts of the application to access and update the user's authentication status, similarly SearchContext was used to allow different parts of the application to access and update the search state.
 
 ## Installation
 
