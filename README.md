@@ -1,7 +1,7 @@
 # Booking.com : Platform to book hotel rooms from all over the globe
 
 ## Table of Contents
-* [About Booking.com](#about- Booking.com)
+* [About Booking.com](#About-Booking.com)
 * [Key Features](#key-features)
 * [More Features](#more-features)
 * [Tech Stack Used](#tech-stack-used)
