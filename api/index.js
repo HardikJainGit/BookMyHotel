@@ -26,6 +26,9 @@ mongoose.connection.on("disconnected", () => {
 
 //Middlewares :
 
+// Cross-Origin Resource Sharing
+// Used to accept API requests to backend
+// (8800) from front end (3000)
 app.use(cors())
 
 app.use(cookieParser())
