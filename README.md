@@ -61,6 +61,7 @@ A login button for the user at the homepage, number of properties based on count
 ```bash
   npm install
 ```
+
 - Start the development server:
 ```bash
   npm start
@@ -70,7 +71,7 @@ A login button for the user at the homepage, number of properties based on count
   
 ## Video of Working App
 
-https://github.com/HardikJainGit/Booking.com/assets/133627261/f74ab094-5225-436d-b90b-078a7b745346
+https://github.com/HardikJainGit/Booking.com/assets/133627261/c0037158-ddc6-4e0b-a7af-25b8c76bded8
 
 
 
