@@ -65,9 +65,13 @@ A login button for the user at the homepage, number of properties based on count
 ```bash
   npm start
 ```
-- Access the website by visiting 'http://localhost:3000' 
+- Access the website by visiting 'http://localhost:3000'
 
+  
 ## Video of Working App
 
-https://github.com/HardikJainGit/Booking.com/assets/133627261/76960225-f42c-4a01-b306-622ea2aa38b2
+https://github.com/HardikJainGit/Booking.com/assets/133627261/f74ab094-5225-436d-b90b-078a7b745346
+
+
+
 
