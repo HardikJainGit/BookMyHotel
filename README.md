@@ -24,6 +24,8 @@ This project is a clone of the Booking.com website, it is a full stack website b
 
 #### See the total cost of stay and reserve desired type of room of your choice
 
+#### User Authentication
+
 #### Two users cannot have same room reserved for same dates
 
 #### MongoDB Atlas used to store the user , room and hotel data
