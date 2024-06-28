@@ -35,7 +35,8 @@ Login and Register buttons for the user at the homepage, number of properties ba
 - MongoDB
 - Mongoose ODM
 - Postman
-  JWT Authorization added for user token generations, passwords were hashed using bcryptjs. Cookie-parser was used to read and manage cookies. Cors was used to accept API requests from frontend to backend. Axios Library was used to make HTTP requests. Context API was used which is a part of React, used for managing global state in a React application and sharing data between components without having to pass props manually and avoid prop drilling. AuthContext used to manage user authentication state, allowing different parts of the application to access and update the user's authentication status, similarly SearchContext was used to allow different parts of the application to access and update the search state. Cloudinary is used to convert images to usable URL for the admin to edit the database.
+
+JWT Authorization added for user token generations, passwords were hashed using bcryptjs. Cookie-parser was used to read and manage cookies. Cors was used to accept API requests from frontend to backend. Axios Library was used to make HTTP requests. Context API was used which is a part of React, used for managing global state in a React application and sharing data between components without having to pass props manually and avoid prop drilling. AuthContext used to manage user authentication state, allowing different parts of the application to access and update the user's authentication status, similarly SearchContext was used to allow different parts of the application to access and update the search state. Cloudinary is used to convert images to usable URL for the admin to edit the database.
 
 ## Installation
 - Clone the repository by opening your terminal and navigating to the directory where you want to clone the repository. Then, run the following command:
