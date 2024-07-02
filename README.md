@@ -1,5 +1,5 @@
 
-# Booking.com : Platform to book hotel rooms from all over the globe
+# BookMyHotel : Platform to book hotel rooms from all over the globe
 ## Table of Contents
 * [About Booking.com](#About-Booking.com)
 * [Key Features](#key-features)
@@ -9,7 +9,7 @@
 * [Contributors](#contributors)
 
 ## About Booking.com
-This project is a clone of the Booking.com website, it is a full stack website built using modern web technologies including HTML, CSS, JavaScript, React for the front end, Node.js , Express for the backend and MongoDB for the database. The project also uses JWT (JSON Web Token) for authentication and authorization, and Postman for API requests.
+This project is a website to book hotels all across the world, it is a full stack website built using modern web technologies including HTML, CSS, JavaScript, React for the front end, Node.js , Express for the backend and MongoDB for the database. The project also uses JWT (JSON Web Token) for authentication and authorization, and Postman for API requests.
 
 ## Key Features
 #### Explore hotels across different countries
